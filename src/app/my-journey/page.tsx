@@ -2,7 +2,9 @@ import React from 'react'
 
 function MyJourney() {
   return (
-    <div>MyJourney</div>
+    <div>
+    <h1>MyJourney</h1>
+    </div>
   )
 }
 
